@@ -1,0 +1,12 @@
+/home/castilho/app/notification/src/main/java/com/notification/config/modelmapper/ModelMapperConverter.java
+/home/castilho/app/notification/src/main/java/com/notification/exception/BadRequestException.java
+/home/castilho/app/notification/src/main/java/com/notification/consumer/EmailConsumer.java
+/home/castilho/app/notification/src/main/java/com/notification/config/ModelMapperConfig.java
+/home/castilho/app/notification/src/main/java/com/notification/persistence/service/EmailService.java
+/home/castilho/app/notification/src/main/java/com/notification/api/controller/EmailController.java
+/home/castilho/app/notification/src/main/java/com/notification/persistence/entity/EmailEntity.java
+/home/castilho/app/notification/src/main/java/com/notification/persistence/enums/StatusEmail.java
+/home/castilho/app/notification/src/main/java/com/notification/persistence/repository/EmailRepository.java
+/home/castilho/app/notification/src/main/java/com/notification/api/request/EmailRequest.java
+/home/castilho/app/notification/src/main/java/com/notification/config/rabbit/RabbitMqConfig.java
+/home/castilho/app/notification/src/main/java/com/notification/NotificationApplication.java
